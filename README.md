@@ -26,8 +26,4 @@ This App was developed on Codesandbox and Deployed Using Netlify.
 ### Try It Now
 Go to reactColors: [React Colors](https://reactcolor.netlify.app/)
 
-### Credits
-Entire credit of this project goes to Colt Steele. He is an amazing instructor. Do check out this channel. [Colt Steele's Youtube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 
-### Feedback
-Any suggestion on how this app could be improved is welcome. If you wish to contribute to it then get in touch. [Contact Me](https://twitter.com/___prithvi?s=09)
